@@ -10,3 +10,5 @@ git commit -m "mensagem" (usado para efetuar a atualização no arquivo LOCALMEN
 git branch -M "main" (uma maneira de renomear a branch que eu estou)
 git remote add origin "url" (criar a conexão do repositório do github com o repositório local)
 git push -u origin "branchname" (enviar as mudanças para o github)
+
+Testando uma nova linha
