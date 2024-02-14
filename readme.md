@@ -16,3 +16,7 @@ Testando uma nova linha
 git reflog (comando que mostra o histórico de versões)
 git reset -- hard (id_da_versao) (para voltar à uma versão específica. Deve-se usar o ID da versão)
 
+git branch (listar as branches disponíveis)
+git branch "nome_nova_branch" (criar uma nova branch)
+A branch atual ficará marcada em verde e com um asterisco
+git checkou "nome_branch" (utilizado para trocar de branch)
