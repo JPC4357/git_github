@@ -14,3 +14,5 @@ git push -u origin "branchname" (enviar as mudanças para o github)
 Testando uma nova linha
 
 git reflog (comando que mostra o histórico de versões)
+git reset -- hard (id_da_versao) (para voltar à uma versão específica. Deve-se usar o ID da versão)
+
