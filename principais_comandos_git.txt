@@ -1,4 +1,4 @@
-Esse projeto serve como treino para comandos de Git.
+Olá, esse projeto ensina você a usar o Git.
 
 *** PRINCIPAIS COMANDOS GIT ***
 
