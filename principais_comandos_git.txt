@@ -30,4 +30,9 @@ git merge "nome_da_outra_branch"
 IMPORTANTE: sempre rodar o comando git pull na branch principal antes de se fazer o comando merge com outras branches... Isso garante que a versão dos arquivos na branch principal é a mais atual.
 
 
+Para fazer com que um arquivo ou pasta não sejam carregados para o GitHub, precisamos usar o gitignore
 
+Comando:
+touch .gitignore
+
+Colocar os nomes das pastas e arquivos a serem ignorados.
