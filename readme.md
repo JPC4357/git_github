@@ -12,3 +12,5 @@ git remote add origin "url" (criar a conexão do repositório do github com o re
 git push -u origin "branchname" (enviar as mudanças para o github)
 
 Testando uma nova linha
+
+git reflog (comando que mostra o histórico de versões)
